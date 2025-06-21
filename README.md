@@ -1,4 +1,4 @@
-<p align="center"><a href="#" target="_blank"><img src="#" width="400"></a></p>
+<p align="center"><a href="#" target="_blank"><img src="./profile/extensio.png" width="400"></a></p>
 
 ## About Extensia
 
